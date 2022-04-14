@@ -1,19 +1,19 @@
 livereload: true
 
 # Site settings
-title: Adrián Mato – Product Designer in San Francisco
-email: hello@adrianmato.com
+title: Kushaiah Felisilda – Filmmaker based in the Philippines
+email: krabfx@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 baseurl_blog: "/blog" # the subpath of the blog
-url: "https://adrianmato.com" # the base hostname & protocol for your site, e.g. http://example.com
-author: Adrián Mato
-twitter: adrianmg
-linkedin: adrianmg
-github:  adrianmg
-instagram: adrianmato
+url: "test.krabf.com" # the base hostname & protocol for your site, e.g. http://example.com
+author: Kushaiah Felisilda
+twitter: krabf_
+linkedin: kushaiahfelisilda
+github:  krabf
+instagram: krabf
 
 # Custom Settings
-timezone: America/Los_Angeles
+timezone: Asia/Taipei
 permalink: /:categories/:title/
 
 # Build settings
