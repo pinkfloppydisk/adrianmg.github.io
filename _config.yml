@@ -5,7 +5,7 @@ title: Kushaiah Felisilda – Filmmaker based in the Philippines
 email: krabfx@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 baseurl_blog: "/blog" # the subpath of the blog
-url: "test.krabf.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dashing-biscotti-099335.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 author: Kushaiah Felisilda
 twitter: krabf_
 linkedin: kushaiahfelisilda
