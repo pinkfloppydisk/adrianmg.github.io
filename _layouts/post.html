@@ -11,7 +11,10 @@ layout: default
       </time>
     </div>
 
- <br>
+    {% if page.title %}
+    <h1>{{ page.title }}</h1>
+    {% endif %}
+  
   </header>
 
   <div class="post-content">
@@ -20,7 +23,7 @@ layout: default
 
   <footer class="post-footer">
     <div class="post-footer-signature">
-      by <a itemprop="name" href="/">{{ site.author }}</a>
+      Written &hearts; by <a itemprop="name" href="/">{{ site.author }}</a>
     </div>
     <div class="post-footer-back"><a href="{{ site.baseurl_blog }}">← Blog</a></div>
   </footer>
