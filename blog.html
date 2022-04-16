@@ -17,7 +17,7 @@ excerpt: Unsorted thoughts and strong opinions about Design, programming, side p
       </span>
       <span class='blog-list-item-title'>{{ post.title }}</span>
           {% if page.summary %}
-    <div class='post-summary' markdown="1">{{ page.summary | markdownify }}</div>
+    <li class='post-summary'{{ page.summary | markdownify }}</li>
     {% endif %}
     </a>
   </li>
